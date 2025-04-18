@@ -2,7 +2,7 @@
 A system that classifies customer reviews as **positive**, **neutral**, or **negative**. This is a practical problem businesses face when analyzing user feedback at scale.
 
 ## 🗂️ Project Folder Structure
-
+```
 sentiment_classifier/
 ├── data/                       # For raw and cleaned data
 │   └── sentiment labelled sentences/   # Place your .txt files here
@@ -13,3 +13,4 @@ sentiment_classifier/
 │   └── app.py
 ├── README.md
 └── requirements.txt
+```
