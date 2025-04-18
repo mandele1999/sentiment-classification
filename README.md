@@ -14,3 +14,5 @@ sentiment_classifier/
 ├── README.md
 └── requirements.txt
 ```
+
+[Data Source](https://archive.ics.uci.edu/dataset/331/sentiment+labelled+sentences)
