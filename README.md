@@ -125,6 +125,13 @@ Positive Feedback              | Negative Feedback
 :-----------------------------:|:----------------------------- :
 ![Positive](docs/positive_wc.png) | ![Negative](docs/negative_wc.png)
 
+### Word Clouds
+
+Positive Feedback              | Negative Feedback
+:-----------------------------:|:-----------------------------:
+![Positive](docs/positive_wc.png) | ![Negative](docs/negative_wc.png)
+
+
 ## Project Summary
 
 This project demonstrates how a simple yet powerful machine learning pipeline can be used to extract insights from customer feedback. It combines text preprocessing, model evaluation, and deployment—all in one place.
