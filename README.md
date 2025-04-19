@@ -4,6 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Streamlit](https://img.shields.io/badge/Made%20with-Streamlit-ff4b4b?logo=streamlit)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+[![Live App](https://img.shields.io/badge/Live%20App-Click%20Here-blue?logo=streamlit)](https://customer-review-sentiment-classifier.streamlit.app/)
 
 A machine learning project that classifies customer feedback as **positive** or **negative** using natural language processing techniques. Built using Logistic Regression and deployed as an interactive Streamlit web app.
 
