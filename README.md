@@ -128,7 +128,7 @@ This project demonstrates how a simple yet powerful machine learning pipeline ca
 - Explore advanced models like DistilBERT or BERT
 - Expand the dataset with more domain-specific reviews
 - Add explanations for predictions using tools like LIME or SHAP
-- Deploy on the web using Streamlit Community Cloud
+- ~Deploy on the web using Streamlit Community Cloud~
 
 ## Acknowledgements
 
