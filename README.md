@@ -6,18 +6,32 @@ A machine learning project that classifies customer feedback as **positive** or 
 
 ## 🗂️ Project Folder Structure
 ```
-sentiment_classifier/
-├── data/                       # For raw and cleaned data
-│   └── sentiment labelled sentences/   # Place your .txt files here
-├── notebooks/                  # For EDA and model training
+sentiment-classifier/
+│
+├── data/                       
+│   ├── amazon_cells_labelled.txt
+│   ├── imdb_labelled.txt
+│   ├── readme.txt
+│   └── yelp_labelled.txt
+│
+├── docs/
+│    └── word-cloud.png
+│
+├── notebooks/                  
 │   └── 01_eda_and_modeling.ipynb
-├── models/                     # To save trained models
-├── app/                        # For Streamlit app later
+│
+├── models/
+│   ├── logistic_model.pkl
+│   └── tfidf_vectorizer.pkl
+│                     
+├── app/                      
 │   └── app.py
+│
+├── LICENSE
+│
 ├── README.md
 └── requirements.txt
 ```
-
 
 ---
 
