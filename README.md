@@ -33,8 +33,8 @@ sentiment-classifier/
 ├── app/                      
 │    └── app.py
 │
+├── CONTRIBUTING.md
 ├── LICENSE
-│
 ├── README.md
 └── requirements.txt
 ```
