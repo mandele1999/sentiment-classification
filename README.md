@@ -84,3 +84,29 @@ streamlit run app/app.py
 - Labels: 1 (positive), 0 (negative)
 
 ### Sample Predictions
+```text
+Sentence: "Absolutely terrible experience, never buying again."
+Predicted Sentiment: Negative (0.95 confidence)
+
+Sentence: "Customer service was quick and helpful."
+Predicted Sentiment: Positive (0.92 confidence)
+```
+## Visual Insights
+
+### Word Clouds
+![image](https://github.com/user-attachments/assets/6c3b07d8-8563-479c-a174-7708890747ab)
+
+## Project Summary
+This project demonstrates how a simple yet powerful machine learning pipeline can be used to extract insights from customer feedback. It combines text preprocessing, model evaluation, and deployment—all in one place.
+
+## ✨ Future Improvements
+- Explore advanced models like DistilBERT or BERT
+- Expand the dataset with more domain-specific reviews
+- Add explanations for predictions using tools like LIME or SHAP
+- Deploy on the web using Streamlit Community Cloud
+
+## Acknowledgements
+Thanks to UCI for providing a clean and simple dataset to work with. The project was created as part of a data science portfolio to demonstrate NLP and deployment capabilities.
+
+
+
