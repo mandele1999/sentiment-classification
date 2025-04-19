@@ -119,9 +119,11 @@ Predicted Sentiment: Positive (0.92 confidence)
 
 ## Visual Insights
 
-### Word Clouds
+### 🌥️ Word Clouds
 
-![image](https://github.com/user-attachments/assets/6c3b07d8-8563-479c-a174-7708890747ab)
+Positive Feedback              | Negative Feedback
+:-----------------------------:|:----------------------------- :
+![Positive](docs/positive_wc.png) | ![Negative](docs/negative_wc.png)
 
 ## Project Summary
 
