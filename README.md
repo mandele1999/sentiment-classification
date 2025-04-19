@@ -84,13 +84,13 @@ git clone https://github.com/mandele1999/sentiment-classifier.git
 cd sentiment-classifier
 ```
 
-2. ** Install dependencies:**
+2. **Install dependencies:**
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. ** Run the app locally:**
+3. **Run the app locally:**
 
 ```bash
 streamlit run app/app.py
