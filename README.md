@@ -57,7 +57,7 @@ This project uses the [UCI Sentiment Labelled Sentences dataset](https://archive
   - Random Forest
 - Visualized performance using bar plots
 - Created word clouds for each sentiment class
-- Built a simple and intuitive Streamlit app for real-time predictions
+- Built a simple and intuitive [Streamlit app](https://customer-review-sentiment-classifier.streamlit.app/) for real-time predictions
 
 ---
 
