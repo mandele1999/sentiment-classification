@@ -124,12 +124,6 @@ Predicted Sentiment: Positive (0.92 confidence)
 Positive Feedback              | Negative Feedback
 :-----------------------------:|:----------------------------- :
 ![Positive](docs/positive_wc.png) | ![Negative](docs/negative_wc.png)
-
-### Word Clouds
-
-Positive Feedback              | Negative Feedback
-:-----------------------------:|:----------------------------- :
-![Positive](docs/positive_wc.png) | ![Negative](docs/negative_wc.png)
 Frequently used words in positive reviews | Common terms in negative reviews
 
 ## Project Summary
