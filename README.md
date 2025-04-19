@@ -48,14 +48,6 @@ This project uses the [UCI Sentiment Labelled Sentences dataset](https://archive
 
 ---
 
-## Demo
-
-![Streamlit App Demo](outputs/streamlit_demo.gif)
-
-> 🔗 Coming soon: Live demo link (if hosted)
-
----
-
 ## 💡 Key Features
 
 - Cleaned and explored labeled customer reviews (positive/negative)
