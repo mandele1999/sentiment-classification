@@ -9,23 +9,23 @@ A machine learning project that classifies customer feedback as **positive** or 
 sentiment-classifier/
 │
 ├── data/                       
-│   ├── amazon_cells_labelled.txt
-│   ├── imdb_labelled.txt
-│   ├── readme.txt
-│   └── yelp_labelled.txt
+│    ├── amazon_cells_labelled.txt
+│    ├── imdb_labelled.txt
+│    ├── readme.txt
+│    └── yelp_labelled.txt
 │
 ├── docs/
 │    └── word-cloud.png
 │
 ├── notebooks/                  
-│   └── 01_eda_and_modeling.ipynb
+│    └── 01_eda_and_modeling.ipynb
 │
 ├── models/
-│   ├── logistic_model.pkl
-│   └── tfidf_vectorizer.pkl
+│    ├── logistic_model.pkl
+│    └── tfidf_vectorizer.pkl
 │                     
 ├── app/                      
-│   └── app.py
+│    └── app.py
 │
 ├── LICENSE
 │
