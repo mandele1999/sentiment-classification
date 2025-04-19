@@ -61,23 +61,22 @@ Logistic Regression was chosen for deployment due to its balanced and reliable p
 ---
 
 ## 📦 Installation
-
 1. **Clone the repository:**
 
 ```bash
 git clone https://github.com/mandele1999/sentiment-classifier.git
 cd sentiment-classifier
-
+````
 2. **Install dependencies:**
 
 ```bash
 pip install -r requirements.txt
-
+```
 3. **Run the app locally:**
 
 ```bash
 streamlit run app/app.py
-
+```
 ## Dataset
 
 - Source: [UCI Sentiment Labelled Sentences dataset](https://archive.ics.uci.edu/dataset/331/sentiment+labelled+sentences)
