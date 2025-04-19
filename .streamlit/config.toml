@@ -1,0 +1,15 @@
+# .streamlit/config.toml
+
+[theme]
+primaryColor = "#6C63FF"  # A calm violet tone
+backgroundColor = "#FAFAFA"  # Light neutral background
+secondaryBackgroundColor = "#EAEAEA"  # Card/sidebar background
+textColor = "#262730"  # Dark text for contrast
+font = "sans serif"
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+port = 8501
+
