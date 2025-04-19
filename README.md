@@ -5,7 +5,8 @@ A machine learning project that classifies customer feedback as **positive** or 
 ---
 
 ## 🗂️ Project Folder Structure
-```
+
+```rust
 sentiment-classifier/
 │
 ├── data/                       
@@ -75,22 +76,26 @@ Logistic Regression was chosen for deployment due to its balanced and reliable p
 ---
 
 ## 📦 Installation
+
 1. **Clone the repository:**
 
 ```bash
 git clone https://github.com/mandele1999/sentiment-classifier.git
 cd sentiment-classifier
-````
-2. **Install dependencies:**
+```
+
+2.**Install dependencies:**
 
 ```bash
 pip install -r requirements.txt
 ```
-3. **Run the app locally:**
+
+3.**Run the app locally:**
 
 ```bash
 streamlit run app/app.py
 ```
+
 ## Dataset
 
 - Source: [UCI Sentiment Labelled Sentences dataset](https://archive.ics.uci.edu/dataset/331/sentiment+labelled+sentences)
@@ -98,6 +103,7 @@ streamlit run app/app.py
 - Labels: 1 (positive), 0 (negative)
 
 ### Sample Predictions
+
 ```text
 Sentence: "Absolutely terrible experience, never buying again."
 Predicted Sentiment: Negative (0.95 confidence)
@@ -105,22 +111,24 @@ Predicted Sentiment: Negative (0.95 confidence)
 Sentence: "Customer service was quick and helpful."
 Predicted Sentiment: Positive (0.92 confidence)
 ```
+
 ## Visual Insights
 
 ### Word Clouds
+
 ![image](https://github.com/user-attachments/assets/6c3b07d8-8563-479c-a174-7708890747ab)
 
 ## Project Summary
+
 This project demonstrates how a simple yet powerful machine learning pipeline can be used to extract insights from customer feedback. It combines text preprocessing, model evaluation, and deployment—all in one place.
 
 ## ✨ Future Improvements
+
 - Explore advanced models like DistilBERT or BERT
 - Expand the dataset with more domain-specific reviews
 - Add explanations for predictions using tools like LIME or SHAP
 - Deploy on the web using Streamlit Community Cloud
 
 ## Acknowledgements
+
 Thanks to UCI for providing a clean and simple dataset to work with. The project was created as part of a data science portfolio to demonstrate NLP and deployment capabilities.
-
-
-
