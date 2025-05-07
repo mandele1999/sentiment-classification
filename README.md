@@ -1,5 +1,8 @@
 # Sentiment Classifier for Customer Feedback
 
+![emotion-recognition](https://github.com/user-attachments/assets/e81e5235-7cb0-4561-a182-0c60825bdf40)
+
+
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Streamlit](https://img.shields.io/badge/Made%20with-Streamlit-ff4b4b?logo=streamlit)
